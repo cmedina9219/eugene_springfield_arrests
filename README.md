@@ -3,6 +3,19 @@
 My research investigates how the Eugene Police Department is handling calls without CAHOOTS assistance. This research project specifically looks at number of arrests which is an indication of unnecessary escalation from the Eugene Police Department
 
 
+## 💾 Dataset Setup
+The dataset for this project is compressed due to GitHub file size limits. Please extract it before running the notebook:
+
+### On Windows
+1. Right-click `eugene_springfield_CAD.zip` in your file explorer.
+2. Select **Extract All...**
+3. Ensure it extracts directly into the project root directory (or your `/data` folder).
+
+### On Mac / Linux (Terminal)
+Run the following command in your terminal:
+```bash
+unzip eugene_springfield_CAD.zip
+```
 
 
 
